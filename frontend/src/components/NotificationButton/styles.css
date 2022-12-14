@@ -13,3 +13,16 @@
 .dsmeta-red-btn img {
     width: 19px;
 }
+.toast-message {
+    background: #242c3b;
+    color: #fff;
+    font-size: 20px;
+    width: 34vw;
+    padding: 30px 20px;
+    border-radius: 10px;
+}
+.bar{
+    background: linear-gradient(45deg, #102347 10%, #ff6b72 90%);
+    height: 0.5rem;
+    border-radius: 5px;
+}
