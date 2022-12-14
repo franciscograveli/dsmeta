@@ -1,3 +1,4 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import logo from '../../assets/img/logo.svg'
 import './styles.css'
 
@@ -8,10 +9,8 @@ function Header() {
             <div className="dsmeta-logo-container">
                 <img src={logo} alt="DSMeta" />
                 <h1>DSMeta</h1>
-                <p>
-                    Desenvolvido por
-                    <a href="https://www.linkedin.com/in/francisco-carlos-609192142/">Francisco Graveli</a>
-                </p>
+                <p>Uma aplicação para o controle de vendas</p>
+               
             </div>
         </header>
     )
