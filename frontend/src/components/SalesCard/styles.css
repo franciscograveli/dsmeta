@@ -4,10 +4,6 @@
     padding: 30px 10px;
 }
 
-#sales {
-    padding: 40px 10px;
-}
-
 .dsmeta-sales-title {
     color: #676fff;
     font-size: 24px;
@@ -67,7 +63,6 @@
     display: flex;
     justify-content: center;
 }
-
 
 .show576 {
     display: none;
